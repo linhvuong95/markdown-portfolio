@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* Running
+  * Trail running
+  * Road running
+* Trekking
+* Biking
+* Eating ice-cream
